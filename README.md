@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! I'm Djeniffer Bianchati 👾</h1>
-<h3 align="center"> Na Minha Máquina Funciona! 😅</h3>
+
 
 <!--
 **djenibian/djenibian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,10 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="djeni-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="djeni-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-<br>
-<div align="center" style="display: inline_block">
-  <a href="https://www.criarbanner.com.br" title="criar banner" target="_blank"><img src="https://www.criarbanner.com.br/criargifs/a/60f91fb88f797e48d0e260af6213be4b.gif" width="150" height="150" border="0" /></a><a href="https://www.criarbanner.com.br/logotipo/" title="criar logotipo" target="_blank" ></a>
-</div>
+
 
   
   
