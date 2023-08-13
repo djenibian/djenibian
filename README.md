@@ -18,15 +18,20 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djenibian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djenibian&layout=compact&langs_count=7&theme=dracula"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3d30f2,100:87CEFA&height=120&section=header" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=25&duration=4000&pause=300&color=FFFFFF&background=01C6FF00&center=true&vCenter=true&width=1000&lines=Hello+there!+I'm+Daniel!;I'm+25+years+old;speaking+from+Brazil;programming+at+Cubos+Academy;Be+very+welcome+%3A)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danmendua&show_icons=true&count_private=true&hide_border=true&title_color=665cf7&icon_color=4f39bd&text_color=c9d1d9&bg_color=0d1117" alt="Djeniffer Bianchati github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danmendua&layout=compact&hide_border=true&title_color=665cf7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-                                 **Tecnologias e Ferramentas**
 
-<!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
+
+   <hr size="10" width="100%" align="center" noshade>
+
+ **Tecnologias e Ferramentas**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,6 +41,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 
