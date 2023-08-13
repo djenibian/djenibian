@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-<picture>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=djenibian&show_icons=true&count_private=true&hide_border=true&title_color=480276&icon_color=480276&text_color=480276&bg_color=9261B2" alt="Djeniffer Bianchati github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djenibian&layout=compact&hide_border=true&title_color=480276&text_color=9261B2_color=9261B2" />
+</div>
 
 
 
