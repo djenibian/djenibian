@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=djenibian&show_icons=true&count_private=true&hide_border=true&title_color=480276&icon_color=480276&text_color=480276&bg_color=9261B2" alt="Djeniffer Bianchati github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djenibian&layout=compact&hide_border=true&title_color=480276&text_color=9261B2_color=9261B2" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=djenibian&show_icons=true&count_private=true&hide_border=true&title_color=665cf7&icon_color=4f39bd&text_color=c9d1d9&bg_color=0d1117" alt="Djeniffer Bianchati github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djenibian&layout=compact&hide_border=true&title_color=665cf7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
 
 
    <hr size="10" width="100%" align="center" noshade>
