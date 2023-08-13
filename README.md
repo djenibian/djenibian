@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djenibian&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- **Tecnologias e Ferramentas**
+                                 **Tecnologias e Ferramentas**
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
