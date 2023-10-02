@@ -1,4 +1,8 @@
-<h2 align="center"> Hi there  🐈‍⬛ </h2>
+# Olá! Sou Djeniffer Bianchati 👋
+Desenvolvedora Full Stack | JavaScript | Node.js | Git | GitHub | Linux | React  <br/><br/>
+
+### 🎓 Cursando <br/>
+Engenharia de Software<br/>
 
 
 <!--
