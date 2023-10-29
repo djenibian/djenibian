@@ -1,5 +1,5 @@
 # Olá! Sou Djeniffer Bianchati 👋
- JavaScript | Node.js | Git | GitHub | Linux | React  <br/><br/>
+ Java| JavaScript | Node.js | Git | Spring | SQL | MySQL | Linux  <br/><br/>
 
 ### 🎓 Cursando <br/>
 Engenharia de Software<br/>
